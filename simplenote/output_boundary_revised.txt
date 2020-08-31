@@ -1,0 +1,4 @@
+
+testTitleLength=true
+testDescriptionLength=true
+testAuthorNameLength=true
